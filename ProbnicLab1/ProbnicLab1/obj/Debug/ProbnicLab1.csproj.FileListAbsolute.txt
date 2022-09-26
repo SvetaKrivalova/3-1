@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\bin\Debug\ProbnicLab1.exe.config
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\bin\Debug\ProbnicLab1.exe
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\bin\Debug\ProbnicLab1.pdb
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.Form1.resources
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.Properties.Resources.resources
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.exe
+C:\Users\Home\source\repos\ProbnicLab1\ProbnicLab1\obj\Debug\ProbnicLab1.pdb
